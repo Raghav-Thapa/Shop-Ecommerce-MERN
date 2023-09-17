@@ -1,0 +1,33 @@
+.loginimage{
+    border-radius: 10px 0px 0px 10px;
+}
+
+.form-format{
+    margin-top: 0px;
+    margin-left: 30px;
+}
+
+h3 {
+    text-align: center;
+    margin-top: 10px;
+    font-weight: bold;
+    background: -webkit-linear-gradient(#bf9959,black);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.login{
+    margin-top: 100px;
+}
+
+.backcolor{
+    background-color: #8d8880;
+    height: 713px;
+}
+
+.loginbackcolor{
+    background-color: rgb(178, 176, 176);
+    border-radius: 0px 10px 10px 0px;
+}
+
+

@@ -1,0 +1,51 @@
+.loginimage{
+    border-radius: 20px 0px 0px 100px;
+}
+
+.form-format{
+    margin-top: 0px;
+    margin-left: 30px;
+}
+
+.signup{
+    margin-left: 250px;
+    text-decoration: none;
+    color: black;
+}
+
+.signup:hover{
+    color: rgb(89, 89, 196);
+    text-decoration:underline;
+    
+}
+
+h3{
+    text-align: center;
+    margin-top: 20px;
+    font-weight: bold;
+    background: -webkit-linear-gradient(#bf9959,black);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.backcolor{
+    background-color: #8d8880;
+    height: 913px;
+    
+}
+
+.loginbackcolor{
+    /* background-color: rgb(178, 176, 176); */
+    border-radius: 0px 100px 10px 0px;
+    background-image: linear-gradient(white,#8d8880);
+}
+
+.userimage{
+    position: absolute;
+    margin-left: 230px;
+    margin-top: -70vh;
+    border-radius: 50px;
+    opacity: 0.5;
+}
+
+

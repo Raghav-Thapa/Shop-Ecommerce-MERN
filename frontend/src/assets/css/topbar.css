@@ -1,0 +1,30 @@
+.topbar{
+    height:40px;
+    background-color: #bf9959;
+    opacity: 0.8;
+}
+
+.icons{
+    font-size: 20px;
+}
+
+.cart{
+    margin-left: 510px;
+}
+
+.marginright{
+    margin-right: 15px; ;
+}
+
+.image{
+    height: 40px;
+    margin-left: 500px;
+}
+
+.notifi{
+    font-size: 24px;
+}
+
+.zindex{
+    z-index: 10000 !important;
+}
